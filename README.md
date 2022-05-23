@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Apps**
 
-- 🌱 I’m currently learning **JavaScript, React.Js**
+- 🌱 I’m currently learning **JavaScript, React.Js**   
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/eyupomer?tab=repositories)
 
